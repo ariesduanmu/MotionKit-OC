@@ -1,4 +1,4 @@
-# MotionKit-Objective-C-
+# MotionKit-OC
 
 
 原资料地址：https://github.com/MHaroonBaig/MotionKit
